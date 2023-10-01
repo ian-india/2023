@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_9{
+fill: #FFE599;
+}
+.g1_9{
+fill: #F2F2F2;
+}
+.g2_9{
+fill: #FFF;
+}
+.g3_9{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-linejoin: round;
+}
+.g4_9{
+fill: none;
+stroke: #000;
+stroke-width: 0.916;
+stroke-miterlimit: 10;
+}
+.g5_9{
+fill: none;
+stroke: #222;
+stroke-width: 0.916;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<path fill-rule="evenodd" d="M247.8,214h177V108.5h-177V214Z" class="g0_9"/>
+<path fill-rule="evenodd" d="M424.9,214H611.8V108.5H424.9V214Z" class="g0_9"/>
+<path fill-rule="evenodd" d="M611.9,214H800V108.5H611.9V214Z" class="g0_9"/>
+<path fill-rule="evenodd" d="M247.8,391H800V214H247.8V391Z" class="g1_9"/>
+<path fill-rule="evenodd" d="M247.8,617.9H800V391.1H247.8V617.9Z" class="g1_9"/>
+<path fill-rule="evenodd" d="M523.3,851H247.5V622.5H799V851H523.3Z" class="g1_9"/>
+<path fill-rule="evenodd" d="M676.8,833.5H675V815.9h3.6v17.6h-1.8Z" class="g2_9"/>
+<path fill-rule="evenodd" d="M247.8,214h177V108.5h-177V214Z" class="g0_9"/>
+<path fill-rule="evenodd" d="M424.9,214H611.8V108.5H424.9V214Z" class="g0_9"/>
+<path fill-rule="evenodd" d="M611.9,214H800V108.5H611.9V214Z" class="g0_9"/>
+<path fill-rule="evenodd" d="M247.8,391H800V214H247.8V391Z" class="g1_9"/>
+<path fill-rule="evenodd" d="M247.8,617.9H800V391.1H247.8V617.9Z" class="g1_9"/>
+<path d="M110.4,108.9H800.5M110.4,214.4H800.5M110.4,391.5H800.5M110.4,618.4H800.5M110.4,845.1H800.5m-690.1,36H800.5M110.4,898.7H800.5M110.8,108.5V899.1m137,-790.6V899.1M424.9,108.5V214.8m187,-106.3V214.8M800.1,108.5V899.1" class="g3_9"/>
+<path d="M119.3,283.1h68.3m-68.3,35.3h74.3M515.2,247.7h46.6m.1,0h3.8m0,0h40.7m-79.8,34.9h48.3m0,0h3.8m0,0H621m-66.4,17.8h29.8m0,0h3.8m0,0h49.2m-61.6,35.3h40.7m0,0h3.8m0,0H656m-356.3,53h34.9m3.8,0H368m259.8,18.9H655m0,0h3.8m0,0h44m-98,52.4h70.9m-37.4,35h84.5M355.2,548h29.6m0,0h3.9m0,0h57.6m99.9,35.3h77.7M119.3,459.6h90.5m-90.5,35.2h103m486,139.5h78.5M378.1,686.9h57.8m0,0h3.8m0,0h71.2m-66.6,35.4h66.9m.1,0h3.9m0,0h40.6m151.7,17.8h48.3M299.7,757.6h44.2m98.7,35.5h27.2m0,0h3.8m0,0h41.6M119.3,685.8h62m-62,17.3h53.2m-53.2,35.1h98.9" class="g4_9"/>
+<path d="M345.4,878.8h45.9m0,0h3.8m0,0H423" class="g5_9"/>
+</svg>

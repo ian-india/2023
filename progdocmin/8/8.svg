@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_8"><path d="M750.7,898.9V881.4h.8v17.5Z"/></clipPath>
+<clipPath id="c1_8"><path d="M699.5,934.2V916.7h.3v17.5Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_8{
+fill: #F2F2F2;
+}
+.g1_8{
+fill: #F4D3F2;
+}
+.g2_8{
+fill: #E2EFD9;
+}
+.g3_8{
+fill: #FFE599;
+}
+.g4_8{
+fill: #FBE4D5;
+}
+.g5_8{
+fill: #FFF;
+}
+.g6_8{
+fill: #222;
+}
+.g7_8{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-linejoin: round;
+}
+.g8_8{
+fill: none;
+stroke: #000;
+stroke-width: 0.916;
+stroke-miterlimit: 10;
+}
+.g9_8{
+fill: none;
+stroke: #222;
+stroke-width: 0.916;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<path fill-rule="evenodd" d="M248,266.4H799.9V108.5H248V266.4Z" class="g0_8"/>
+<path fill-rule="evenodd" d="M248,371.9H519.1V284H248v87.9Z" class="g1_8"/>
+<path fill-rule="evenodd" d="M519.1,371.9H799.9V284H519.1v87.9Z" class="g2_8"/>
+<path fill-rule="evenodd" d="M248,477H425V372H248V477Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M425,477H611.8V372H425V477Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M611.9,477h188V372h-188V477Z" class="g4_8"/>
+<path fill-rule="evenodd" d="M248,845.2H799.9V688.9H248V845.2Z" class="g0_8"/>
+<path fill-rule="evenodd" d="M248,1181.4H799.9V845.3H248v336.1Z" class="g0_8"/>
+<path fill-rule="evenodd" d="M523.3,693.7H247.5V482.9H799V693.7H523.3Z" class="g0_8"/>
+<path fill-rule="evenodd" d="M706.1,535.3h-1.8V517.7h3.6v17.6h-1.8Z" class="g5_8"/>
+<path fill-rule="evenodd" d="M711.3,534.4H668.1v-.7h86.5v.7H711.3Z" class="g6_8"/>
+<path fill-rule="evenodd" d="M702.9,570.5H700v17.6h2.9V570.5Zm33.3,-17.6h-3.6v17.6h3.6V552.9Z" class="g5_8"/>
+<path fill-rule="evenodd" d="M248,266.4H799.9V108.5H248V266.4Z" class="g0_8"/>
+<path fill-rule="evenodd" d="M248,371.9H519.1V284H248v87.9Z" class="g1_8"/>
+<path fill-rule="evenodd" d="M519.1,371.9H799.9V284H519.1v87.9Z" class="g2_8"/>
+<path fill-rule="evenodd" d="M248,477H425V372H248V477Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M425,477H611.8V372H425V477Z" class="g3_8"/>
+<path fill-rule="evenodd" d="M611.9,477h188V372h-188V477Z" class="g4_8"/>
+<path fill-rule="evenodd" d="M248,845.2H799.9V688.9H248V845.2Z" class="g0_8"/>
+<path fill-rule="evenodd" d="M248,1181.4H799.9V845.3H248v336.1Z" class="g0_8"/>
+<path d="M110.4,108.9H800.3M110.4,266.8H800.3M110.4,284.4H800.3m-689.9,88H800.3M110.4,477.5H800.3M110.4,689.3H800.3M110.4,845.7H800.3M110.4,1181.8H800.3m-689.9,17.6H800.3M110.8,108.5V1199.8M248,108.5V1199.8M425,372V477.9M519.1,284v88.8m92.8,-.8V477.9m188,-369.4V1199.8" class="g7_8"/>
+<path d="M466,142.5H567.4M291,195.6h49.2m0,0h3.9m0,0h26.2m332,17.5h64.5M291.2,230.5H332" class="g8_8"/>
+<path d="M386.5,511.2h49.2m0,0h3.8m0,0h62.7M524,581.9H674.4" class="g9_8"/>
+<path d="M119.3,545.6h51.8m-51.8,17.7h71.4m-71.4,53h88.8m504.8,88.8H757M289.1,722.5h30.5m328.8,17.7h59.3m.1,0h3.8m0,0h62.7m-485.4,53h35.6m0,0h3.8m0,0h46.6m153.7,35.5h28.1m-.1,0h3.8m0,0h47.3M119.3,757h78.5m-78.5,35.3h72.6m451.8,69.4h56M292,879.4h95.9m303.9,17.7h55.1m0,0h3.8" class="g8_8"/>
+<path clip-path="url(#c0_8)" d="M750.7,897.1h3.9" class="g8_8"/>
+<path d="M292,914.7h11m3.8,0h56m301.5,17.7h31.3m.1,0h3.9" class="g8_8"/>
+<path clip-path="url(#c1_8)" d="M699.6,932.4h3.8" class="g8_8"/>
+<path d="M292,950h52.5m148.8,35.3h36.5m0,0h3.9m0,0h33.1m16.2,35.3h28m0,0h3.8m0,0h34.7m-139.5,53h48.2m0,0h3.9m0,0h51.6m.2,0h3.8m0,0h35.7m-125.2,52.8h35.6m.1,0h3.8m0,0h44.9m-189.3,53h33m0,0h3.9m0,0h48.2m.2,0h3.8m0,0h33.2M119.3,930.7H239.9M119.3,948h86.6m-86.6,52.8h87.9" class="g8_8"/>
+</svg>
